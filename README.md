@@ -1,4 +1,4 @@
-# ansible-role-dnsmasq
+# ansible-role-nginx
 
 A versatile role to setup nginx, created using this philosophy: 
 https://github.com/jriguera/ansible-role-pattern/blob/master/README.md
