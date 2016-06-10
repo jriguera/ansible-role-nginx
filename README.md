@@ -3,6 +3,8 @@
 A versatile role to setup nginx, created using this philosophy: 
 https://github.com/jriguera/ansible-role-pattern/blob/master/README.md
 
+Ansible 2.0, works with Ubuntu Trusty, Xenial and Centos 7
+
 This role supports the definition of different vhosts and parameters, 
 for example, it is capable of copying ssl certificates to the server 
 if they are defined. 
