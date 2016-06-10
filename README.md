@@ -65,4 +65,4 @@ the example in `site.yml` with vagrant and test it by using `vagrant up`.
 
 ## Author
 
-José Riguera López
+José Riguera López <jriguera@gmail.com>
